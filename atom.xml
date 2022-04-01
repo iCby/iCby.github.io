@@ -6,7 +6,7 @@
   <link href="https://icby.github.io/atom.xml" rel="self"/>
   
   <link href="https://icby.github.io/"/>
-  <updated>2022-03-29T02:49:45.837Z</updated>
+  <updated>2022-04-01T04:45:29.635Z</updated>
   <id>https://icby.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="https://icby.github.io/2022/03/29/article-title/"/>
+    <id>https://icby.github.io/2022/03/29/article-title/</id>
+    <published>2022-03-29T03:12:10.000Z</published>
+    <updated>2022-04-01T04:45:29.635Z</updated>
+    
+    
+    
+    
+    
+    <category term="yang" scheme="https://icby.github.io/tags/yang/"/>
+    
+  </entry>
   
   <entry>
     <title>博客</title>
