@@ -3,11 +3,7 @@
   box-sizing: border-box;
   width: 100%;
   height: auto;
-  background: url("https://github.com/iCby/iCby.github.io/blob/main/images/wallhaven-z8r9qw.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
+  background: var(--background-color);
 keep-tablet()
 }
 .page-container .page-main-content {
