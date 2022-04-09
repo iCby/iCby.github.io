@@ -4,7 +4,7 @@
   width: 100%;
   height: auto;
 /*背景图片路径*/
-  background: url("https://cdn.jsdelivr.net/gh/kaix2301/pictures/img202201081000420.jpg");
+  background: url("https://gitee.com/icby/image/raw/master/1.jpg");
 /*背景图片不重复多次显示*/
   background-repeat: no-repeat;
 /*窗口放缩时背景图片中心始终在屏幕中心*/
